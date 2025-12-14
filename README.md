@@ -1,4 +1,4 @@
-<img src="https://gm.retrojuegos.org/images/company_logo.png" alt="drawing" width="200" align="center"/>
+<img src="https://gm.retrojuegos.org/images/logo_boriel_200.png" alt="drawing" width="200" align="center"/>
 
 # ZX Spectrum Game Maker
 
@@ -9,6 +9,10 @@ Recomendamos usar [ZX Paintbrush](https://sourcesolutions.itch.io/zx-paintbrush)
 ## Tech
 
 ZX Game Maker usa [Boriel's ZX Basic](https://zxbasic.readthedocs.io/en/docs/), [GuSprites sprites library](https://github.com/gusmanb/GuSprites) y python para scripting
+
+<a href="https://zxbasic.readthedocs.io/en/docs/" target="_blank">
+    <img src="https://zxbasic.readthedocs.io/en/docs/img/zxbasic_logo.png" alt="Boriel Basic" width="100"/>
+</a>
 
 ## Como empezar
 
@@ -42,6 +46,7 @@ Libraries and other software that are included in this project or that it was in
 * [r-lyeh](https://github.com/r-lyeh) Spectral emulator
 * [S.V.Bulba](https://ay.strangled.net/) Vortex Tracker II
 * [Freepik](https://www.flaticon.com/authors/freepik) Launcher Icons
+* Juan Segura Duran [Libro Boriel Basic (2023)](https://www.amazon.es/Boriel-Basic-para-ZX-Spectrum/dp/B0CQD65FXZ/)
 
 ## Special Thanks
 
